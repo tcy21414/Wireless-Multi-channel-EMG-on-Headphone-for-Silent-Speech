@@ -13,3 +13,6 @@ Each .csv file in the data/ directory corresponds to one spoken word recorded vi
 | `time_index` | Timestamp/frame index (sequential)                       |
 | `ch1`–`ch4`  | Raw EMG values from 4 textile channels                   |
 | `label`      | Integer label representing the spoken word/class         |
+
+
+Details of the data format, including sampling rate, label protocols, are demonstrated in the manuscript (Open accessed with arxiv preprint version).
